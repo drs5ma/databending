@@ -1,8 +1,14 @@
 # databending
 Command Line Utilities for Data Bending
 
-
+<<<<<<< HEAD
+```shell
+$ databend.sh input.jpg output.jpg
+```
+=======
 # Usage
 ```shell
 $ databend.sh input_file.jpg output_file.jpg
 ```
+
+>>>>>>> drs5ma-patch-1
